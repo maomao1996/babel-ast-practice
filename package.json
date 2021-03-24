@@ -1,0 +1,21 @@
+{
+  "name": "babel-ast-practice",
+  "version": "1.0.0",
+  "private": true,
+  "description": "记录 babel-ast 的练习代码",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maomao1996/babel-ast-practice.git"
+  },
+  "author": "maomao1996 <1714487678@qq.com>",
+  "bugs": {
+    "url": "https://github.com/maomao1996/babel-ast-practice/issues"
+  },
+  "homepage": "https://github.com/maomao1996/babel-ast-practice#readme",
+  "devDependencies": {
+    "@babel/core": "^7.13.10"
+  }
+}
